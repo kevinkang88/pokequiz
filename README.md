@@ -1,6 +1,6 @@
 # pokequiz
 
-<img src="http://i.imgur.com/654FEqq.png" align="left" height="50%" width="auto" >
+<img src="http://i.imgur.com/654FEqq.png" align="left" height="568px" width="320px" >
 
 ## What I learned
 
